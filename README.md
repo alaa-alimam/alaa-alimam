@@ -503,12 +503,13 @@ https://github.com/alaa-alimam/SMS-Spam-Detection-Using-NLP-and-ML
 
 <div align="center">
 
-| 🤖 AI | 📊 Machine Learning | 💬 NLP | 👁️ Deep Learning | 📈 Data Analytics |
-|:----:|:------------------:|:------:|:----------------:|:----------------:|
-| Smart Vendor Agent | House Price Prediction | SMS Spam Detection | CIFAR-10 CNN | Samsung Sales Analysis |
-| LLM Applications | Vehicle Price Prediction | Python Fundamentals | Electricity Prediction | Smartphone Dashboard |
-| AI Procurement | Customer Churn | — | Titanic Prediction | Power BI |
-| — | — | — | — | Sales Analytics |
+| 🤖 AI & LLM | 🤖 Machine Learning | 🧠 Deep Learning | 💬 NLP | 📊 Data Analytics & BI |
+|:-----------:|:-------------------:|:----------------:|:------:|:----------------------:|
+| Smart Vendor Agent | House Price Prediction | CIFAR-10 Image Classification | SMS Spam Detection | Samsung Global Sales Analysis |
+| | Vehicle Sales Price Prediction | | | Smartphone Sales Dashboard |
+| | Electricity Consumption Prediction | | | Python Fundamentals & Practice Projects |
+| | Titanic Survival Prediction | | | |
+| | Customer Churn Prediction | | | |
 
 </div>
 
