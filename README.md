@@ -768,16 +768,6 @@ Instructor
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alaa-alimam&theme=github-compact&hide_border=true"/>
-
-</div>
-
 
 
 ---
