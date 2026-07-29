@@ -10,7 +10,9 @@
 
 ### Building Intelligent Systems with Artificial Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;Computer+Vision;Natural+Language+Processing;Large+Language+Models+(LLMs);Generative+AI;Retrieval-Augmented+Generation+(RAG);AI+Agents;Always+Learning+🚀" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;Computer+Vision;NLP;LLMs;Generative+AI;RAG;AI+Agents;Always+Learning">
+</p>
 
 <br>
 
