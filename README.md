@@ -2,23 +2,32 @@
 
 # 👋 Hi, I'm Alaa Ahmed Al Imam
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Engineer;Data+Scientist;Machine+Learning+Enthusiast;Deep+Learning;Computer+Vision;Natural+Language+Processing;Generative+AI;RAG;AI+Agents" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Engineer;Data+Scientist;Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing;Generative+AI;RAG;AI+Agents" />
 
-<p align="center">
+<br>
 
-<a href="https://github.com/alaa-alimam">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
-</a>
-
-<a href="https://github.com/alaa-alimam">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue">
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=alaa-alimam&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+
+---
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alaa-alimam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-alimam&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alaa-alimam&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alaa-alimam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaa-alimam&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
