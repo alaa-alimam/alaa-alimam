@@ -337,9 +337,10 @@ AI Agents
 # 🎯 Development Philosophy
 
 > **"Write clean code, build intelligent systems, and never stop learning."**
+
 # 🚀 Featured Projects
 
-> *A selection of AI, Machine Learning, NLP, and Data Science projects that demonstrate my technical skills and passion for building intelligent solutions.*
+> *A collection of AI, Machine Learning, Deep Learning, NLP, Data Analysis, and Business Intelligence projects.*
 
 <br>
 
@@ -351,51 +352,21 @@ AI Agents
 
 ## 🤖 Smart Vendor Agent
 
-AI-powered platform for evaluating vendor proposals using **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**.
+AI-powered procurement assistant for evaluating vendor proposals using LLMs with explainable AI and secure audit logs.
 
-### ✨ Features
-
-- 📄 PDF Proposal Analysis
-- 🤖 AI-Based Evaluation
-- 📊 Vendor Ranking
-- 🔍 Explainable AI
-- 📑 Automated Reports
-
-### 🛠️ Tech Stack
-
-`Python` `FastAPI` `LLMs` `Groq API` `RAG`
-
-<br>
-
-<a href="https://github.com/alaa-alimam">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+**🔗 Repo:**  
+https://github.com/alaa-alimam/Smart-Vendor-Agent
 
 </td>
 
 <td width="50%">
 
-## 🎬 IMDB Sentiment Analysis
+## 🐍 Python Fundamentals & Practice Projects
 
-Deep Learning model that predicts whether a movie review is **Positive** or **Negative** using **LSTM**.
+Hands-on Python projects covering programming fundamentals, OOP, and practical console applications.
 
-### ✨ Features
-
-- Text Preprocessing
-- Tokenization
-- Word Embedding
-- LSTM Network
-- Sentiment Prediction
-
-### 🛠️ Tech Stack
-
-`TensorFlow` `Keras` `LSTM` `NLP`
-
-<br>
-
-<a href="https://github.com/alaa-alimam">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+**🔗 Repo:**  
+https://github.com/alaa-alimam/Python-Fundamentals-And-Practice-Projects
 
 </td>
 
@@ -405,61 +376,101 @@ Deep Learning model that predicts whether a movie review is **Positive** or **Ne
 
 <td>
 
-## 💬 SMS Spam Detection
+## 📱 Smartphone Sales Analysis Dashboard
 
-Machine Learning model for classifying SMS messages into **Spam** or **Ham**.
+Interactive Power BI dashboard for smartphone sales analysis, KPIs, trends, and business insights.
 
-### ✨ Features
-
-- Text Cleaning
-- TF-IDF
-- Feature Engineering
-- Spam Prediction
-
-### 🛠️ Tech Stack
-
-`Python`
-
-`NLTK`
-
-`Scikit-Learn`
-
-`TF-IDF`
-
-<br>
-
-<a href="https://github.com/alaa-alimam">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+**🔗 Repo:**  
+https://github.com/alaa-alimam/Smartphone_Sales_Analysis_Dashboard
 
 </td>
+
+<td>
+
+## 📊 Samsung Global Sales Data Analysis
+
+Exploratory Data Analysis (EDA) project uncovering sales trends and customer insights using Python.
+
+**🔗 Repo:**  
+https://github.com/alaa-alimam/Samsung_Global_Sales_Data_Analysis
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## ⚡ Electricity Consumption Prediction
+
+Machine Learning model predicting electricity demand using weather and time-based features.
+
+**🔗 Repo:**  
+https://github.com/alaa-alimam/Electricity-Consumption-ML
+
+</td>
+
+<td>
+
+## 🚢 Titanic Survival Prediction
+
+Classification models for predicting Titanic passenger survival using end-to-end ML workflow.
+
+**🔗 Repo:**  
+https://github.com/alaa-alimam/Titanic-Survival-Prediction-ML
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🚗 Vehicle Sales Price Prediction
+
+End-to-end regression project predicting vehicle prices using XGBoost and feature engineering.
+
+**🔗 Repo:**  
+https://github.com/alaa-alimam/Car-Price-Prediction-ML
+
+</td>
+
+<td>
+
+## 📊 Customer Churn Prediction
+
+Machine Learning model that predicts customer churn using demographic and service data.
+
+**🔗 Repo:**  
+https://github.com/alaa-alimam/Customer_Churn_Prediction_ML
+
+</td>
+
+</tr>
+
+<tr>
 
 <td>
 
 ## 🏠 House Price Prediction
 
-Regression model that predicts house prices using historical housing data.
+Regression models for predicting house prices using the Ames Housing Dataset.
 
-### ✨ Features
+**🔗 Repo:**  
+https://github.com/alaa-alimam/House-Price-Prediction-ML
 
-- Data Cleaning
-- Feature Engineering
-- Regression Models
-- Performance Evaluation
+</td>
 
-### 🛠️ Tech Stack
+<td>
 
-`Python`
+## 🖼️ CIFAR-10 Image Classification
 
-`Pandas`
+Deep Learning CNN model for image classification using TensorFlow/Keras.
 
-`Scikit-Learn`
-
-<br>
-
-<a href="https://github.com/alaa-alimam">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+**🔗 Repo:**  
+https://github.com/alaa-alimam/CIFAR10-Image-Classification-Deep-Learning-CNN
 
 </td>
 
@@ -469,61 +480,16 @@ Regression model that predicts house prices using historical housing data.
 
 <td>
 
-## 📊 Customer Churn Analysis
+## 📩 SMS Spam Detection
 
-Predict customers likely to leave a business using Machine Learning.
+NLP and Machine Learning project for classifying SMS messages as Spam or Ham.
 
-### ✨ Features
-
-- Data Analysis
-- Feature Engineering
-- Classification
-- Business Insights
-
-### 🛠️ Tech Stack
-
-`Python`
-
-`Machine Learning`
-
-`Pandas`
-
-`Scikit-Learn`
-
-<br>
-
-<a href="https://github.com/alaa-alimam">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+**🔗 Repo:**  
+https://github.com/alaa-alimam/SMS-Spam-Detection-Using-NLP-and-ML
 
 </td>
 
 <td>
-
-## 📈 Power BI Sales Dashboard
-
-Interactive dashboard for sales analysis and business intelligence.
-
-### ✨ Features
-
-- KPI Dashboard
-- Sales Analysis
-- Profit Analysis
-- Interactive Filters
-
-### 🛠️ Tech Stack
-
-`Power BI`
-
-`SQL`
-
-`Excel`
-
-<br>
-
-<a href="https://github.com/alaa-alimam">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
@@ -537,10 +503,12 @@ Interactive dashboard for sales analysis and business intelligence.
 
 <div align="center">
 
-| 🤖 AI | 📊 Data Science | 💬 NLP | 👁️ Computer Vision | 📈 BI |
-|:----:|:--------------:|:------:|:------------------:|:----:|
-| Smart Vendor Agent | Customer Churn | SMS Spam Detection | Image Projects | Power BI Dashboard |
-| LLM Applications | House Price Prediction | IMDB Sentiment | CNN Models | Sales Dashboard |
+| 🤖 AI | 📊 Machine Learning | 💬 NLP | 👁️ Deep Learning | 📈 Data Analytics |
+|:----:|:------------------:|:------:|:----------------:|:----------------:|
+| Smart Vendor Agent | House Price Prediction | SMS Spam Detection | CIFAR-10 CNN | Samsung Sales Analysis |
+| LLM Applications | Vehicle Price Prediction | Python Fundamentals | Electricity Prediction | Smartphone Dashboard |
+| AI Procurement | Customer Churn | — | Titanic Prediction | Power BI |
+| — | — | — | — | Sales Analytics |
 
 </div>
 
@@ -548,15 +516,15 @@ Interactive dashboard for sales analysis and business intelligence.
 
 # 🏅 Project Highlights
 
-✅ Built end-to-end AI applications using Python.
+✅ Built end-to-end AI, Machine Learning, and Deep Learning applications.
 
-✅ Developed Machine Learning and Deep Learning models.
+✅ Developed NLP solutions for spam detection and text processing.
 
-✅ Applied NLP techniques for text classification and sentiment analysis.
+✅ Built interactive Power BI dashboards for business analytics.
 
-✅ Built interactive dashboards for business analytics.
+✅ Applied EDA, feature engineering, statistical analysis, and predictive modeling.
 
-✅ Worked with LLMs, FastAPI, and Retrieval-Augmented Generation (RAG).
+✅ Worked with LLMs, FastAPI, Groq API, and AI-powered procurement systems.
 
 ---
 
