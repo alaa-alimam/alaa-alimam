@@ -792,17 +792,7 @@ Instructor
 
 </div>
 
----
 
-# 🐍 Contribution Snake
-
-> **Enable the GitHub Action first**, then add the following image:
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/alaa-alimam/alaa-alimam/output/github-contribution-grid-snake-dark.svg" />
-</p>
-```
 
 ---
 
