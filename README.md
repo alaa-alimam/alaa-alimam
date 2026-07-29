@@ -749,26 +749,6 @@ Instructor
 - 🌍 Contribute to Open Source AI projects
 - 📝 Share technical content with the AI community
 
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaa-alimam&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-alimam&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=alaa-alimam&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-
 
 ---
 
