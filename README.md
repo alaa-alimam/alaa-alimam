@@ -807,11 +807,11 @@ Instructor
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Profile Trophy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alaa-alimam &theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alaa-alimam&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" />
 
 </div>
 
