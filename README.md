@@ -1,33 +1,41 @@
 <div align="center">
 
-# 👋 Hi, I'm Alaa Ahmed Al Imam
+# Hi 👋, I'm Alaa Ahmed Al Imam
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Engineer;Data+Scientist;Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing;Generative+AI;RAG;AI+Agents" />
+### AI Engineer • LLM Engineer • Data Scientist
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Building+AI+Solutions;Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;NLP+%7C+LLMs+%7C+RAG;Always+Learning+Something+New+🚀" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=alaa-alimam&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/alaa-alimam">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="mailto:alamamlaahmd@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/alaa-alimam">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=alaa-alimam&label=Visitors&style=for-the-badge&color=0891b2"/>
+
+</div>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaa-alimam&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-alimam&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
----
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alaa-alimam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-alimam&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="98%" src="https://streak-stats.demolab.com?user=alaa-alimam&theme=github-dark-blue&hide_border=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alaa-alimam&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alaa-alimam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaa-alimam&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
 
 ---
 
