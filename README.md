@@ -115,34 +115,7 @@ I believe that continuous learning, hands-on projects, and solving real-world pr
 
 </div>
 
----
 
-# 🏆 Certifications
-
-<div align="center">
-
-| Certificate | Organization | Status |
-|-------------|--------------|:------:|
-| 🤖 **Artificial Intelligence (AI)** | **NTI × Huawei Egyptian Talent Academy** | ✅ Completed |
-| 📊 **Data Analysis: Skills for the Freelance Professional** | **NTI × Digital Egypt Youth** | ✅ Completed |
-| 📈 **Data Analysis with Power BI** | **Creativa Innovation Hub** | ✅ Completed |
-| 🐍 **Python for Data Science & Machine Learning** | **Instructor: Hassan Fulaih** | ✅ Completed |
-
-</div>
-
-### 🔗 Certificate Links
-
-- 🤖 Artificial Intelligence (AI)  
-  https://www.linkedin.com/posts/alaa-alimam_artificial-intelligence-ai-nti-huawei-activity-7455994840732897280-qN9Q
-
-- 📊 Data Analysis: Skills for the Freelance Professional  
-  https://www.linkedin.com/posts/alaa-alimam_data-analysis-skills-for-the-freelance-professional-activity-7486796793360392192-WqJi
-
-- 📈 Data Analysis with Power BI  
-  https://www.linkedin.com/posts/alaa-alimam_data-analysis-by-power-bi-certificate-achievement-activity-7373004433732997120-r-AD
-
-- 🐍 Python for Data Science & Machine Learning  
-  https://www.linkedin.com/posts/alaa-alimam_data-science-and-machine-learning-with-python-activity-7392628873160540160-g3y4
 
 ---
 
