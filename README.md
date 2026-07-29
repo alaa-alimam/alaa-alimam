@@ -34,36 +34,18 @@ Building intelligent systems with AI, Machine Learning, Deep Learning, Computer 
 
 ## 💫 About Me
 
-```yaml
-name: Alaa Ahmed Al Imam
+```text
+👨‍💻 Name        : Alaa Ahmed Al Imam
 
-role: AI Engineer
+🎯 Role        : AI Engineer
 
-location: Qena, Egypt 🇪🇬
+📍 Location    : Qena, Egypt
 
-education:
-  - Faculty of Computers & Information
-  - Artificial Intelligence Department
-  - South Valley University
+🎓 Education   : Artificial Intelligence Student
 
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - NLP
-  - Large Language Models
-  - Generative AI
-  - RAG
-  - AI Agents
+💡 Interests   : ML • DL • CV • NLP • LLMs • GenAI • RAG
 
-currently_learning:
-  - Advanced Deep Learning
-  - LLM Applications
-  - AI Agents
-  - MLOps
-
-motto: "Build AI that solves real-world problems."
+🚀 Goal        : Build Production-Ready AI Systems
 ```
 
 ### 🚀 Who Am I?
