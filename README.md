@@ -32,29 +32,38 @@ Building intelligent systems with AI, Machine Learning, Deep Learning, Computer 
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-```python
-class AIEngineer:
+```yaml
+name: Alaa Ahmed Al Imam
 
-    def __init__(self):
-        self.name = "Alaa Ahmed Al Imam"
-        self.role = "AI Engineer"
-        self.location = "Qena, Egypt"
+role: AI Engineer
 
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Natural Language Processing",
-            "Large Language Models",
-            "Generative AI",
-            "Retrieval-Augmented Generation",
-            "AI Agents"
-        ]
+location: Qena, Egypt 🇪🇬
 
-    def motto(self):
-        return "Build AI that solves real-world problems."
+education:
+  - Faculty of Computers & Information
+  - Artificial Intelligence Department
+  - South Valley University
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - NLP
+  - Large Language Models
+  - Generative AI
+  - RAG
+  - AI Agents
+
+currently_learning:
+  - Advanced Deep Learning
+  - LLM Applications
+  - AI Agents
+  - MLOps
+
+motto: "Build AI that solves real-world problems."
 ```
 
 ### 🚀 Who Am I?
